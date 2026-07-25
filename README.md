@@ -36,7 +36,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](https://my-tech-blog-qqjil6bub-yashika-kauminas-projects.vercel.app)**
+🔗 **[View Live Demo](https://my-tech-blog-three-blue.vercel.app)**
 
 ---
 
