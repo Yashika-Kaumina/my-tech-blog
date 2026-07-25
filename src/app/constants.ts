@@ -45,7 +45,7 @@ export const BLOG_POSTS: BlogPost[] = [
     liveUrl: "https://github.com/Yashika-Kaumina/chess-swiss-system",
     author: {
       name: "Yashika Kaumina",
-      avatarUrl: "/yashika.jpg"
+      avatarUrl: "/yashikanew.jpg"
     }
   },
   {
@@ -79,7 +79,7 @@ export const BLOG_POSTS: BlogPost[] = [
     liveUrl: "https://github.com/Yashika-Kaumina/php-student-management-system",
     author: {
       name: "Yashika Kaumina",
-      avatarUrl: "/yashika.jpg"
+      avatarUrl: "/yashikanew.jpg"
     }
   },
   {
@@ -113,7 +113,7 @@ export const BLOG_POSTS: BlogPost[] = [
     liveUrl: "https://yashika-kaumina.github.io/my-portfolio-practice/",
     author: {
       name: "Yashika Kaumina",
-      avatarUrl: "/yashika.jpg"
+      avatarUrl: "/yashikanew.jpg"
     }
   }
 ];
